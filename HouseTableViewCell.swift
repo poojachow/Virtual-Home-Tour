@@ -2,7 +2,7 @@
 //  HouseTableViewCell.swift
 //  VirtualHomeTour
 //
-//  Created by Pooja Chowdhary on 11/30/15.
+//  Created by Pooja on 11/30/15.
 //  Copyright (c) 2015 Pooja. All rights reserved.
 //
 
